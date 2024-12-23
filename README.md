@@ -3,7 +3,7 @@
 ![Logo](https://github.com/user-attachments/assets/bd809425-16d8-404a-b151-93a4f2c964dc)
 
 
-A responsive and interactive website for **MeowPuffy Cafe**, designed to provide users with a seamless browsing experience. Built using **React.js**, **HTML**, **CSS**, and **JavaScript**, the project focuses on user-friendly design and efficient performance.  
+A responsive and interactive website for **MeowPuffy Cafe**, designed to provide users with a smooth browsing experience. Built using **React.js**, **HTML**, **CSS**, and **JavaScript**, the project focuses on user-friendly design and efficient performance.  
 
 ---
 
@@ -11,10 +11,8 @@ A responsive and interactive website for **MeowPuffy Cafe**, designed to provide
 1. [About the Project](#about-the-project)  
 2. [Features](#features)  
 3. [Technologies Used](#technologies-used)  
-4. [Getting Started](#getting-started)  
-5. [Screenshots](#screenshots)  
-6. [Future Enhancements](#future-enhancements)  
-7. [Contact](#contact)  
+4. [Project Status](#project-status)
+5. [Recommendations](#recommendations)
 
 ---
 
