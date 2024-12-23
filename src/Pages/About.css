@@ -1,0 +1,88 @@
+.About-Us {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .aboutBottom {
+    display: flex;
+    flex-direction: column;
+    height: 100%; 
+    align-items: center;
+    margin-top: 0px;
+  }
+  
+  .aboutBottom p {
+    width: 80%;
+    text-align: center; 
+  }
+  
+  .about .aboutBottom h1 {
+    font-weight: 400;
+    font-size: 2em;
+    color: black;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-40px);
+  }
+
+  .team-members {
+    display:flex; 
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: minmax(200px, auto);
+    justify-content: center; 
+    gap: 20px;
+  }
+
+  .Founder {
+    grid-column: 1 / 3;
+   }
+   
+   .Director {
+    grid-column: 2 / 3;
+   }
+   
+   .Financial,
+   .Welfare,
+   .Inventory,
+   .Media {
+    grid-column: 1 / 2;
+   }
+
+  .Founder,
+  .Director,
+  .Financial,
+  .Welfare,
+  .Inventory,
+  .Media {
+    text-align: center;
+  }
+
+  .team-members img {
+    width: 40 px; 
+    height: 40 px; 
+    border-radius: 50%; 
+  }
+
+  @media (max-width: 768px) {
+    .aboutBottom p {
+      width: 100%;
+    }
+  
+    .about .aboutBottom h1 {
+      font-size: 1.5em;
+    }
+  
+    .team-members img {
+      width: 80px;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .team-members img {
+       width: 100px;
+       height: 100px;
+    }
+   }

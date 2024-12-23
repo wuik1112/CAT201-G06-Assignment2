@@ -1,0 +1,56 @@
+.contact-container {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 20px;
+   }
+   
+   .social-media,
+   .meet-us,
+   .operating-hours {
+    margin-bottom: 20px;
+    text-align: left;
+   }
+   
+   .social-media h2,
+   .meet-us h2,
+   .operating-hours h2 {
+    font-family: Helvetica, sans-serif;
+   }
+   
+   .social-media ul,
+   .meet-us ul,
+   .operating-hours ul {
+    padding: 0;
+    list-style-type: none;
+   }
+   
+   .social-media ul li,
+   .meet-us ul li,
+   .operating-hours ul li {
+    margin-bottom: 5px;
+   }
+   
+   .social-media ul li a,
+   .meet-us ul li button,
+   .operating-hours ul li {
+    text-decoration: none;
+    color: #333;
+   }
+   
+   .social-media ul li img {
+    width: 30px;
+    height: 30px;
+   }
+
+   .social-media,
+    .meet-us,
+    .operating-hours {
+    margin-bottom: 40px; /* Increased margin-bottom */
+    text-align: left;
+    }
+
+    .contact-container p {
+        font-size: 16px;
+       }
+
+  

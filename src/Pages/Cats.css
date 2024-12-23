@@ -1,0 +1,229 @@
+/* Cats.css */
+
+.cats-container {
+    max-width: 70%;
+    margin: 5% auto 0;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #ab9184;
+    border-radius: 2%;
+  }
+  
+  .cats-title {
+    margin-bottom: 2%;
+  }
+  
+  .cat-images {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  .cat-container.hovered {
+    height: auto;
+    transform: scale(1.1);
+  }
+  
+  .cat-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  /*container to hold the title and cat images */
+  .cats-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .cat-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    width: 90%;
+    margin: 2%;
+    transition: height 0.3s ease; 
+    margin-bottom: 5%;
+  }
+  
+  .cat-container.expanded {
+    height: auto;
+  }
+  
+  .cat-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .cat-info {
+    text-align: center;
+  }
+  
+  .cat-name {
+    font-weight: bold;
+  }
+  
+  .cat-details {
+    margin-top: 10%;
+    text-align: left;
+    margin-left: 5%;
+  }
+  
+  /* cat diets*/
+  .whole-diet-container {
+    max-width: 70%;
+    margin: 5% auto 0;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #ab9184;
+    border-radius: 5%;
+  }
+  .cat-diets-container {
+    width: 100%;
+    height: auto;
+    margin: 2% auto;
+    text-align: center;
+  }
+  
+  .diets-title {
+    margin-bottom: 3%;
+  }
+  
+  .diets-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .diet-item {
+    width: 90%; 
+    margin: 1%;
+    padding: 3%;
+    border: 1px solid #ccc;
+    border-radius: 2%;
+    text-align: left;
+  }
+
+  /*styles for merchandise */
+.merch-container {
+  max-width: 70%;
+  margin: 5% auto;
+  text-align: center;
+}
+
+.merch-title {
+  margin-bottom: 3%;
+}
+
+.merch-row {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 -5%;
+}
+
+.merch-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  margin: 2%;
+  transition: transform 0.3s ease;
+  flex: 1;
+  overflow: hidden;
+}
+
+.merch-item:hover {
+  transform: scale(1.1);
+}
+
+.merch-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.merch-info {
+  text-align: center;
+}
+
+.merch-item.expanded {
+  height: auto;
+}
+
+.merch-description {
+  margin-top: 3%;
+  margin-left: 5%;
+}
+
+
+@media (max-width: 768px) {
+  .cats-container,
+  .whole-diet-container{
+    max-width: 90%;
+    margin: 5% auto 0;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #ab9184;
+    border-radius: 2%;
+  }
+
+  .cat-row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .cat-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    width: 70%;
+    margin: 8%;
+    transition: height 0.3s ease;
+    margin-bottom: 10%;
+  }
+
+  .merch-container {
+    max-width: 90%;
+    margin: 5% auto 0;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .merch-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    width: 70%;
+    margin: 8%;
+    transition: height 0.3s ease;
+    margin-bottom: 10%;
+  }
+
+  .merch-row {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+}

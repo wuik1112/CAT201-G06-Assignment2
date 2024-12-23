@@ -1,0 +1,83 @@
+/* feedback.css */
+
+/* Container styles */
+.feedback-page-wrapper {
+    text-align: center;
+    background-color: #ECE1DB;
+    padding: 20px 80px;
+  }
+  
+  /* Form styles */
+  .feedback-form-container {
+    margin-bottom: 20px;
+  }
+  
+  .feedback-form-container input {
+    width: 500px;
+    height: auto;
+  }
+
+  .feedback-form-container button {
+    width: 100px;
+    height: auto;
+  }
+
+  .feedback-form-container input,
+  .feedback-form-container select,
+  .feedback-form-container button {
+    margin-bottom: 10px;
+    padding: 8px;
+  }
+  
+  /* Button styles */
+  .secondary-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .secondary-button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Latest Feedback styles */
+  .latest-feedbacks {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .feedback-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .feedback-item:hover {
+    background-color: #FAD02E;
+  }
+  
+  /* Star styles */
+  .feedback-item p BsStarFill {
+    color: #FFD700; /* Gold color for stars */
+  }
+  
+  /* Media query for responsive design */
+  @media screen and (max-width: 768px) {
+    .feedback-page-wrapper {
+      padding: 10px;
+    }
+  
+    .feedback-form-container input,
+    .feedback-form-container select,
+    .feedback-form-container button {
+      width: 97%;
+    }
+  }
