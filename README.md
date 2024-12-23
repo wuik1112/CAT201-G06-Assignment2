@@ -26,7 +26,7 @@ MeowPuffy Cafe is a fictional cat-themed cafe that aims to attract cat lovers wi
 ## Features  
 - **Responsive Design**: Optimized for both desktop and mobile devices.  
 - **Interactive User Interface**: Smooth navigation and engaging content layout.  
-- **Dynamic Content**: Displays menus, special offers, and information about the cafe.  
+- **Dynamic Content**: Displays menus, cats available, and information about the cafe.  
 
 ---
 
@@ -38,13 +38,9 @@ MeowPuffy Cafe is a fictional cat-themed cafe that aims to attract cat lovers wi
 
 ---
 
-## Getting Started  
-### Prerequisites  
-Ensure you have the following installed:  
-- Node.js (latest stable version)  
-- npm or yarn  
+## Project Status
+This project was developed using an older version of dependencies, some of which are now deprecated or outdated. While the project is functional, users should be aware of potential security vulnerabilities and compatibility issues.
 
-### Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/your-username/meowpuffy-cafe.git  
+### Recommendations
+- If you plan to use or extend this project, consider updating the dependencies by running `npm audit fix` or manually upgrading packages.
+- Some updates may introduce breaking changes, so thorough testing is recommended after any modifications.
