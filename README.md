@@ -1,6 +1,6 @@
 # MeowPuffy Cafe Website  
 
-![Project Logo](path-to-logo-or-remove-this-line-if-not-available)  
+![Project Logo](src\Logo.png)  
 
 A responsive and interactive website for **MeowPuffy Cafe**, designed to provide users with a seamless browsing experience. Built using **React.js**, **HTML**, **CSS**, and **JavaScript**, the project focuses on user-friendly design and efficient performance.  
 
