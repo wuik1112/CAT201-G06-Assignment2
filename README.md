@@ -13,6 +13,7 @@ A responsive and interactive website for **MeowPuffy Cafe**, designed to provide
 3. [Technologies Used](#technologies-used)  
 4. [Project Status](#project-status)
 5. [Recommendations](#recommendations)
+6. [Contributors](#contributors)
 
 ---
 
@@ -39,6 +40,17 @@ MeowPuffy Cafe is a fictional cat-themed cafe that aims to attract cat lovers wi
 ## Project Status
 This project was developed using an older version of dependencies, some of which are now deprecated or outdated. While the project is functional, users should be aware of potential security vulnerabilities and compatibility issues.
 
+---
+
 ### Recommendations
 - If you plan to use or extend this project, consider updating the dependencies by running `npm audit fix` or manually upgrading packages.
 - Some updates may introduce breaking changes, so thorough testing is recommended after any modifications.
+
+---
+
+### Contributors
+- [Khoo Iu Wan](https://github.com/wuik1112)
+- Raziqin Husna binti Abdul Wahid
+- Loo Jia Xin
+- Teoh Xin Pei
+- Sabrina binti Sofian
