@@ -10,10 +10,12 @@ A responsive and interactive website for **MeowPuffy Cafe**, designed to provide
 ## Table of Contents  
 1. [About the Project](#about-the-project)  
 2. [Features](#features)  
-3. [Technologies Used](#technologies-used)  
-4. [Project Status](#project-status)
-5. [Recommendations](#recommendations)
-6. [Contributors](#contributors)
+3. [Technologies Used](#technologies-used)
+4. [Screenshots](#screenshots)
+5. [Presentation Video](#presentation-video) 
+6. [Project Status](#project-status)
+7. [Recommendations](#recommendations)
+8. [Contributors](#contributors)
 
 ---
 
@@ -38,32 +40,39 @@ MeowPuffy Cafe is a fictional cat-themed cafe that aims to attract cat lovers wi
 ---
 
 ## Screenshots
-Header
+**Header**
 ![image](https://github.com/user-attachments/assets/e2395017-26cb-408f-bbc6-02748602ba25)
-Home Page
+
+**Home Page**
 ![image](https://github.com/user-attachments/assets/c81a5242-d063-4b08-8cbe-2417d0c1c208)
 ![image](https://github.com/user-attachments/assets/b02e2a97-558e-45bd-afa9-622a1e604b56)
-Cats Page
+
+**Cats Page**
 ![image](https://github.com/user-attachments/assets/cf1b7c4b-ffa8-4931-a85f-c64e41bec152)
 ![image](https://github.com/user-attachments/assets/34245c5e-d733-4698-aff1-04c63ab8ae58)
 ![image](https://github.com/user-attachments/assets/8f9d0d71-e684-4e62-9b49-f0a4ccc3b6e0)
 ![image](https://github.com/user-attachments/assets/3cabaa4c-ed8c-4894-baa3-af58239178f4)
-Menu Page
+
+**Menu Page**
 ![image](https://github.com/user-attachments/assets/0f473311-b206-4d4b-93d7-10616e11e10b)
 ![image](https://github.com/user-attachments/assets/9f5258fb-198a-4c2d-b8da-e5e730d81153)
-About Us Page
+
+**About Us Page**
 ![image](https://github.com/user-attachments/assets/d33bc55f-ea19-44ca-8c1e-d0d8df300c2b)
-Feedback Page
+
+**Feedback Page**
 ![image](https://github.com/user-attachments/assets/08cbea24-35fe-496e-9941-7adf3f2a783d)
-Contact Us Page
+
+**Contact Us Page**
 ![image](https://github.com/user-attachments/assets/4f38afd1-c9d9-4c91-b96f-1105ec78c5c9)
 ![image](https://github.com/user-attachments/assets/1690bffa-7651-4573-b5a3-1e3add9530ce)
-Responsive (Mobile ver)
+
+**Responsive (Mobile ver)**
 ![image](https://github.com/user-attachments/assets/fa24ab80-d407-4c50-912f-2629c350346a)
 
 ---
 
-## Demo Video
+## Presentation Video
 https://youtu.be/d40-8Gsqlcc
 
 ---
